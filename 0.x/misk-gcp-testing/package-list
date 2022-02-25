@@ -1,0 +1,69 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.cloud.gcp.datastore////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/index.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule.Companion///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/-companion/index.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule.FakeDatastoreService///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/-fake-datastore-service/index.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule.FakeDatastoreService/FakeDatastoreService/#com.google.cloud.datastore.testing.LocalDatastoreHelper/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/-fake-datastore-service/-fake-datastore-service.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/index.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule/FakeDatastoreModule/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/-fake-datastore-module.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule/provideDatastore/#com.google.cloud.datastore.testing.LocalDatastoreHelper/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/provide-datastore.md
+$dokka.location:misk.cloud.gcp.datastore/FakeDatastoreModule/provideDatastoreHelper/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.datastore/-fake-datastore-module/provide-datastore-helper.md
+$dokka.location:misk.cloud.gcp.spanner////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/index.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/index.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion/CONTAINER_NAME/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/-c-o-n-t-a-i-n-e-r_-n-a-m-e.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion/IMAGE/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/-i-m-a-g-e.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion/docker/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/docker.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion/logger/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/logger.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator.Companion/pullImage/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-companion/pull-image.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/index.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator/GoogleSpannerEmulator/#misk.cloud.gcp.spanner.SpannerConfig/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/-google-spanner-emulator.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator/clearTables/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/clear-tables.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator/config/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/config.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulator/pullImage/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator/pull-image.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulatorModule///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator-module/index.md
+$dokka.location:misk.cloud.gcp.spanner/GoogleSpannerEmulatorModule/GoogleSpannerEmulatorModule/#misk.cloud.gcp.spanner.SpannerConfig/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.spanner/-google-spanner-emulator-module/-google-spanner-emulator-module.md
+$dokka.location:misk.cloud.gcp.storage////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/index.md
+$dokka.location:misk.cloud.gcp.storage//check/kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]#com.google.api.services.storage.model.StorageObject?/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/check.md
+$dokka.location:misk.cloud.gcp.storage/FakeStorageModule///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-fake-storage-module/index.md
+$dokka.location:misk.cloud.gcp.storage/FakeStorageModule/FakeStorageModule/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-fake-storage-module/-fake-storage-module.md
+$dokka.location:misk.cloud.gcp.storage/FakeStorageModule/provideStorage/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-fake-storage-module/provide-storage.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/index.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/InMemoryStorageRpc/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/-in-memory-storage-rpc.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/create/#com.google.api.services.storage.model.StorageObject#java.io.InputStream#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/create.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/delete/#com.google.api.services.storage.model.StorageObject#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/delete.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/get/#com.google.api.services.storage.model.StorageObject#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/get.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/list/#kotlin.String#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/list.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/load/#com.google.api.services.storage.model.StorageObject#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/load.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/open/#com.google.api.services.storage.model.StorageObject#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/open.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/openRewrite/#com.google.cloud.storage.spi.v1.StorageRpc.RewriteRequest/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/open-rewrite.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/read/#com.google.api.services.storage.model.StorageObject#kotlin.collections.Map[com.google.cloud.storage.spi.v1.StorageRpc.Option,*]#kotlin.Long#java.io.OutputStream/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/read.md
+$dokka.location:misk.cloud.gcp.storage/InMemoryStorageRpc/write/#kotlin.String#kotlin.ByteArray#kotlin.Int#kotlin.Long#kotlin.Int#kotlin.Boolean/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.storage/-in-memory-storage-rpc/write.md
+$dokka.location:misk.cloud.gcp.testing////PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/index.md
+$dokka.location:misk.cloud.gcp.testing//setJsonContent/com.google.api.client.testing.http.MockLowLevelHttpResponse#kotlin.Any/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/set-json-content.md
+$dokka.location:misk.cloud.gcp.testing/Body///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/index.md
+$dokka.location:misk.cloud.gcp.testing/Body/Body/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/-body.md
+$dokka.location:misk.cloud.gcp.testing/Body/Body/#java.lang.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/-body.md
+$dokka.location:misk.cloud.gcp.testing/Body/message/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-body/message.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/index.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/FakeHttpRequest/#kotlin.String#kotlin.String#kotlin.Function1[misk.cloud.gcp.testing.FakeHttpRequest,com.google.api.client.testing.http.MockLowLevelHttpResponse]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/-fake-http-request.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/addHeader/#kotlin.String#kotlin.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/add-header.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/content/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/content.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/execute/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/execute.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/header/#kotlin.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/header.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/jsonContent/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/json-content.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/method/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/method.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/stringContent/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/string-content.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRequest/url/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-request/url.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter.Companion///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-companion/index.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter.Companion/respondWithError/#kotlin.Int/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-companion/respond-with-error.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter.Companion/respondWithJson/#kotlin.Any/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-companion/respond-with-json.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter.Companion/respondWithText/#kotlin.Int#kotlin.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-companion/respond-with-text.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter.Companion/respondWithText/#kotlin.String/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-companion/respond-with-text.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter///PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/index.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter/FakeHttpRouter/#kotlin.Function1[misk.cloud.gcp.testing.FakeHttpRequest,com.google.api.client.testing.http.MockLowLevelHttpResponse]/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/-fake-http-router.md
+$dokka.location:misk.cloud.gcp.testing/FakeHttpRouter/router/#/PointingToDeclaration/misk-gcp-testing/misk.cloud.gcp.testing/-fake-http-router/router.md
+misk.cloud.gcp.datastore
+misk.cloud.gcp.spanner
+misk.cloud.gcp.storage
+misk.cloud.gcp.testing
+

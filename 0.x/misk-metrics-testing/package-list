@@ -1,0 +1,36 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.metrics.v2////PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/index.md
+$dokka.location:misk.metrics.v2/FakeMetrics///PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/index.md
+$dokka.location:misk.metrics.v2/FakeMetrics/counter/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/counter.md
+$dokka.location:misk.metrics.v2/FakeMetrics/gauge/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/gauge.md
+$dokka.location:misk.metrics.v2/FakeMetrics/get/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/get.md
+$dokka.location:misk.metrics.v2/FakeMetrics/getSample/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]#kotlin.String/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/get-sample.md
+$dokka.location:misk.metrics.v2/FakeMetrics/histogram/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]#kotlin.collections.List[kotlin.Double]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/histogram.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summary/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]#kotlin.collections.Map[kotlin.Double,kotlin.Double]#kotlin.Long?/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summaryCount/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-count.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summaryMean/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-mean.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summaryP50/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-p50.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summaryP99/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-p99.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summaryQuantile/#kotlin.String#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-quantile.md
+$dokka.location:misk.metrics.v2/FakeMetrics/summarySum/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics/summary-sum.md
+$dokka.location:misk.metrics.v2/FakeMetricsModule///PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics-module/index.md
+$dokka.location:misk.metrics.v2/FakeMetricsModule/FakeMetricsModule/#/PointingToDeclaration/misk-metrics-testing/misk.metrics.v2/-fake-metrics-module/-fake-metrics-module.md
+$dokka.location:misk.metrics////PointingToDeclaration/misk-metrics-testing/misk.metrics/index.md
+$dokka.location:misk.metrics/FakeMetrics///PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/index.md
+$dokka.location:misk.metrics/FakeMetrics/counter/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/counter.md
+$dokka.location:misk.metrics/FakeMetrics/gauge/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/gauge.md
+$dokka.location:misk.metrics/FakeMetrics/get/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/get.md
+$dokka.location:misk.metrics/FakeMetrics/getSample/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]#kotlin.String/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/get-sample.md
+$dokka.location:misk.metrics/FakeMetrics/histogram/#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]#kotlin.collections.Map[kotlin.Double,kotlin.Double]#kotlin.Long?/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram.md
+$dokka.location:misk.metrics/FakeMetrics/histogramCount/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-count.md
+$dokka.location:misk.metrics/FakeMetrics/histogramMean/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-mean.md
+$dokka.location:misk.metrics/FakeMetrics/histogramP50/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-p50.md
+$dokka.location:misk.metrics/FakeMetrics/histogramP99/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-p99.md
+$dokka.location:misk.metrics/FakeMetrics/histogramQuantile/#kotlin.String#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-quantile.md
+$dokka.location:misk.metrics/FakeMetrics/histogramSum/#kotlin.String#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.String]]/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics/histogram-sum.md
+$dokka.location:misk.metrics/FakeMetricsModule///PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics-module/index.md
+$dokka.location:misk.metrics/FakeMetricsModule/FakeMetricsModule/#/PointingToDeclaration/misk-metrics-testing/misk.metrics/-fake-metrics-module/-fake-metrics-module.md
+misk.metrics
+misk.metrics.v2
+

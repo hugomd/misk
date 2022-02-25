@@ -1,0 +1,40 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.clustering.zookeeper////PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/index.md
+$dokka.location:misk.clustering.zookeeper//asZkNamespace/kotlin.String#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/as-zk-namespace.md
+$dokka.location:misk.clustering.zookeeper//asZkPath/kotlin.String#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/as-zk-path.md
+$dokka.location:misk.clustering.zookeeper//isConnected/org.apache.curator.framework.CuratorFramework#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/is-connected.md
+$dokka.location:misk.clustering.zookeeper//isRunning/org.apache.curator.framework.CuratorFramework#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/is-running.md
+$dokka.location:misk.clustering.zookeeper/ForZkLease///PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-for-zk-lease/index.md
+$dokka.location:misk.clustering.zookeeper/ForZkLease/ForZkLease/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-for-zk-lease/-for-zk-lease.md
+$dokka.location:misk.clustering.zookeeper/ZkLeaseModule.Companion///PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zk-lease-module/-companion/index.md
+$dokka.location:misk.clustering.zookeeper/ZkLeaseModule.Companion/leaseManagerKey/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zk-lease-module/-companion/lease-manager-key.md
+$dokka.location:misk.clustering.zookeeper/ZkLeaseModule///PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zk-lease-module/index.md
+$dokka.location:misk.clustering.zookeeper/ZkLeaseModule/ZkLeaseModule/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zk-lease-module/-zk-lease-module.md
+$dokka.location:misk.clustering.zookeeper/ZkLeaseModule/provideTaskQueue/#misk.tasks.RepeatedTaskQueueFactory/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zk-lease-module/provide-task-queue.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig///PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/index.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig/ZookeeperConfig/#kotlin.String#kotlin.Int#misk.security.ssl.CertStoreConfig?#misk.security.ssl.TrustStoreConfig?/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/-zookeeper-config.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig/cert_store/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/cert_store.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig/session_timeout_msecs/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/session_timeout_msecs.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig/trust_store/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/trust_store.md
+$dokka.location:misk.clustering.zookeeper/ZookeeperConfig/zk_connect/#/PointingToDeclaration/misk-zookeeper/misk.clustering.zookeeper/-zookeeper-config/zk_connect.md
+$dokka.location:misk.zookeeper////PointingToDeclaration/misk-zookeeper/misk.zookeeper/index.md
+$dokka.location:misk.zookeeper//DEFAULT_PERMS/#/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-d-e-f-a-u-l-t_-p-e-r-m-s.md
+$dokka.location:misk.zookeeper//SERVICES_NODE/#/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-s-e-r-v-i-c-e-s_-n-o-d-e.md
+$dokka.location:misk.zookeeper//SHARED_DIR_PERMS/#/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-s-h-a-r-e-d_-d-i-r_-p-e-r-m-s.md
+$dokka.location:misk.zookeeper/CuratorFrameworkModule///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-curator-framework-module/index.md
+$dokka.location:misk.zookeeper/CuratorFrameworkModule/CuratorFrameworkModule/#misk.clustering.zookeeper.ZookeeperConfig#kotlin.reflect.KClass[kotlin.Annotation]?/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-curator-framework-module/-curator-framework-module.md
+$dokka.location:misk.zookeeper/FixedEnsembleProviderModule///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-fixed-ensemble-provider-module/index.md
+$dokka.location:misk.zookeeper/FixedEnsembleProviderModule/FixedEnsembleProviderModule/#misk.clustering.zookeeper.ZookeeperConfig#kotlin.reflect.KClass[kotlin.Annotation]?/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-fixed-ensemble-provider-module/-fixed-ensemble-provider-module.md
+$dokka.location:misk.zookeeper/StaticHostModule///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-static-host-module/index.md
+$dokka.location:misk.zookeeper/StaticHostModule/StaticHostModule/#misk.clustering.zookeeper.ZookeeperConfig#kotlin.reflect.KClass[kotlin.Annotation]?/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-static-host-module/-static-host-module.md
+$dokka.location:misk.zookeeper/ZkClientFactory///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zk-client-factory/index.md
+$dokka.location:misk.zookeeper/ZkClientFactory/ZkClientFactory/#kotlin.String#org.apache.curator.framework.CuratorFramework/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zk-client-factory/-zk-client-factory.md
+$dokka.location:misk.zookeeper/ZkClientFactory/client/#/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zk-client-factory/client.md
+$dokka.location:misk.zookeeper/ZkService.Companion///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zk-service/-companion/index.md
+$dokka.location:misk.zookeeper/ZkService///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zk-service/index.md
+$dokka.location:misk.zookeeper/ZookeeperDefaultModule///PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zookeeper-default-module/index.md
+$dokka.location:misk.zookeeper/ZookeeperDefaultModule/ZookeeperDefaultModule/#misk.clustering.zookeeper.ZookeeperConfig#kotlin.reflect.KClass[kotlin.Annotation]?/PointingToDeclaration/misk-zookeeper/misk.zookeeper/-zookeeper-default-module/-zookeeper-default-module.md
+misk.clustering.zookeeper
+misk.zookeeper
+

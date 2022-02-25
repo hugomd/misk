@@ -1,0 +1,38 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.slack////PointingToDeclaration/misk-slack/misk.slack/index.md
+$dokka.location:misk.slack/RealSlackClient.Companion///PointingToDeclaration/misk-slack/misk.slack/-real-slack-client/-companion/index.md
+$dokka.location:misk.slack/RealSlackClient.Companion/logger/#/PointingToDeclaration/misk-slack/misk.slack/-real-slack-client/-companion/logger.md
+$dokka.location:misk.slack/RealSlackClient///PointingToDeclaration/misk-slack/misk.slack/-real-slack-client/index.md
+$dokka.location:misk.slack/RealSlackClient/RealSlackClient/#misk.slack.SlackWebhookApi#misk.slack.SlackConfig/PointingToDeclaration/misk-slack/misk.slack/-real-slack-client/-real-slack-client.md
+$dokka.location:misk.slack/RealSlackClient/postMessage/#kotlin.String#kotlin.String#kotlin.String#kotlin.String?/PointingToDeclaration/misk-slack/misk.slack/-real-slack-client/post-message.md
+$dokka.location:misk.slack/SlackClient///PointingToDeclaration/misk-slack/misk.slack/-slack-client/index.md
+$dokka.location:misk.slack/SlackClient/SlackClient/#/PointingToDeclaration/misk-slack/misk.slack/-slack-client/-slack-client.md
+$dokka.location:misk.slack/SlackClient/postMessage/#kotlin.String#kotlin.String#kotlin.String#kotlin.String?/PointingToDeclaration/misk-slack/misk.slack/-slack-client/post-message.md
+$dokka.location:misk.slack/SlackConfig///PointingToDeclaration/misk-slack/misk.slack/-slack-config/index.md
+$dokka.location:misk.slack/SlackConfig/SlackConfig/#kotlin.String#misk.config.Secret[kotlin.String]#kotlin.String?/PointingToDeclaration/misk-slack/misk.slack/-slack-config/-slack-config.md
+$dokka.location:misk.slack/SlackConfig/baseUrl/#/PointingToDeclaration/misk-slack/misk.slack/-slack-config/base-url.md
+$dokka.location:misk.slack/SlackConfig/default_channel/#/PointingToDeclaration/misk-slack/misk.slack/-slack-config/default_channel.md
+$dokka.location:misk.slack/SlackConfig/webhook_path/#/PointingToDeclaration/misk-slack/misk.slack/-slack-config/webhook_path.md
+$dokka.location:misk.slack/SlackModule///PointingToDeclaration/misk-slack/misk.slack/-slack-module/index.md
+$dokka.location:misk.slack/SlackModule/SlackModule/#misk.slack.SlackConfig/PointingToDeclaration/misk-slack/misk.slack/-slack-module/-slack-module.md
+$dokka.location:misk.slack/SlackModule/provideMoshi/#/PointingToDeclaration/misk-slack/misk.slack/-slack-module/provide-moshi.md
+$dokka.location:misk.slack/SlackModule/provideSlackWebhookApi/#misk.client.HttpClientFactory#com.squareup.moshi.Moshi/PointingToDeclaration/misk-slack/misk.slack/-slack-module/provide-slack-webhook-api.md
+$dokka.location:misk.slack/SlackWebhookApi///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-api/index.md
+$dokka.location:misk.slack/SlackWebhookApi/post/#kotlin.String#misk.slack.SlackWebhookRequest/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-api/post.md
+$dokka.location:misk.slack/SlackWebhookRequest///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/index.md
+$dokka.location:misk.slack/SlackWebhookRequest/SlackWebhookRequest/#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/-slack-webhook-request.md
+$dokka.location:misk.slack/SlackWebhookRequest/channel/#/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/channel.md
+$dokka.location:misk.slack/SlackWebhookRequest/icon_emoji/#/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/icon_emoji.md
+$dokka.location:misk.slack/SlackWebhookRequest/text/#/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/text.md
+$dokka.location:misk.slack/SlackWebhookRequest/username/#/PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-request/username.md
+$dokka.location:misk.slack/SlackWebhookResponse.action_prohibited///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/action_prohibited/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.channel_is_archived///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/channel_is_archived/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.channel_not_found///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/channel_not_found/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.invalid_payload///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/invalid_payload/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.missing_text_or_fallback_or_attachments///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/missing_text_or_fallback_or_attachments/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.ok///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/ok/index.md
+$dokka.location:misk.slack/SlackWebhookResponse.user_not_found///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/user_not_found/index.md
+$dokka.location:misk.slack/SlackWebhookResponse///PointingToDeclaration/misk-slack/misk.slack/-slack-webhook-response/index.md
+misk.slack
+

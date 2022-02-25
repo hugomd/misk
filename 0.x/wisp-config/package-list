@@ -1,0 +1,24 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:wisp.config////PointingToDeclaration/wisp-config/wisp.config/index.md
+$dokka.location:wisp.config//addWispConfigSources/com.sksamuel.hoplite.ConfigLoader.Builder#kotlin.collections.List[wisp.config.ConfigSource]#wisp.resources.ResourceLoader/PointingToDeclaration/wisp-config/wisp.config/add-wisp-config-sources.md
+$dokka.location:wisp.config/ClasspathResourceLoaderPreprocessor///PointingToDeclaration/wisp-config/wisp.config/-classpath-resource-loader-preprocessor/index.md
+$dokka.location:wisp.config/ClasspathResourceLoaderPreprocessor/ClasspathResourceLoaderPreprocessor/#wisp.resources.ResourceLoader/PointingToDeclaration/wisp-config/wisp.config/-classpath-resource-loader-preprocessor/-classpath-resource-loader-preprocessor.md
+$dokka.location:wisp.config/ClasspathResourceLoaderPreprocessor/processString/#kotlin.String/PointingToDeclaration/wisp-config/wisp.config/-classpath-resource-loader-preprocessor/process-string.md
+$dokka.location:wisp.config/ClasspathResourceLoaderPreprocessor/resourceLoader/#/PointingToDeclaration/wisp-config/wisp.config/-classpath-resource-loader-preprocessor/resource-loader.md
+$dokka.location:wisp.config/Config///PointingToDeclaration/wisp-config/wisp.config/-config/index.md
+$dokka.location:wisp.config/ConfigSource///PointingToDeclaration/wisp-config/wisp.config/-config-source/index.md
+$dokka.location:wisp.config/ConfigSource/ConfigSource/#kotlin.String#kotlin.String/PointingToDeclaration/wisp-config/wisp.config/-config-source/-config-source.md
+$dokka.location:wisp.config/ConfigSource/configLocation/#/PointingToDeclaration/wisp-config/wisp.config/-config-source/config-location.md
+$dokka.location:wisp.config/ConfigSource/format/#/PointingToDeclaration/wisp-config/wisp.config/-config-source/format.md
+$dokka.location:wisp.config/Configurable///PointingToDeclaration/wisp-config/wisp.config/-configurable/index.md
+$dokka.location:wisp.config/Configurable/configure/#TypeParam(bounds=[wisp.config.Config])/PointingToDeclaration/wisp-config/wisp.config/-configurable/configure.md
+$dokka.location:wisp.config/Configurable/getConfigClass/#/PointingToDeclaration/wisp-config/wisp.config/-configurable/get-config-class.md
+$dokka.location:wisp.config/FilesystemResourceLoaderPreprocessor///PointingToDeclaration/wisp-config/wisp.config/-filesystem-resource-loader-preprocessor/index.md
+$dokka.location:wisp.config/FilesystemResourceLoaderPreprocessor/FilesystemResourceLoaderPreprocessor/#wisp.resources.ResourceLoader/PointingToDeclaration/wisp-config/wisp.config/-filesystem-resource-loader-preprocessor/-filesystem-resource-loader-preprocessor.md
+$dokka.location:wisp.config/FilesystemResourceLoaderPreprocessor/processString/#kotlin.String/PointingToDeclaration/wisp-config/wisp.config/-filesystem-resource-loader-preprocessor/process-string.md
+$dokka.location:wisp.config/FilesystemResourceLoaderPreprocessor/resourceLoader/#/PointingToDeclaration/wisp-config/wisp.config/-filesystem-resource-loader-preprocessor/resource-loader.md
+$dokka.location:wisp.config/WispConfig///PointingToDeclaration/wisp-config/wisp.config/-wisp-config/index.md
+$dokka.location:wisp.config/WispConfig/builder/#/PointingToDeclaration/wisp-config/wisp.config/-wisp-config/builder.md
+wisp.config
+

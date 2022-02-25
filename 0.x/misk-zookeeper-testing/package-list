@@ -1,0 +1,18 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.zookeeper.testing////PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/index.md
+$dokka.location:misk.zookeeper.testing//main/#kotlin.Array[kotlin.String]/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/main.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper.Companion///PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/-companion/index.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper.Companion/CLIENT_PORT/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/-companion/-c-l-i-e-n-t_-p-o-r-t.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper.Companion/LEADER_PORT/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/-companion/-l-e-a-d-e-r_-p-o-r-t.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper.Companion/PEER_PORT/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/-companion/-p-e-e-r_-p-o-r-t.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper///PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/index.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper/EmbeddedZookeeper/#kotlin.Int/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/-embedded-zookeeper.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper/basePort/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/base-port.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper/start/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/start.md
+$dokka.location:misk.zookeeper.testing/EmbeddedZookeeper/stop/#/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-embedded-zookeeper/stop.md
+$dokka.location:misk.zookeeper.testing/ZkTestModule.Companion///PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-zk-test-module/-companion/index.md
+$dokka.location:misk.zookeeper.testing/ZkTestModule///PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-zk-test-module/index.md
+$dokka.location:misk.zookeeper.testing/ZkTestModule/ZkTestModule/#kotlin.reflect.KClass[kotlin.Annotation]?/PointingToDeclaration/misk-zookeeper-testing/misk.zookeeper.testing/-zk-test-module/-zk-test-module.md
+misk.zookeeper.testing
+

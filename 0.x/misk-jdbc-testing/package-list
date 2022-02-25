@@ -1,0 +1,65 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.jdbc////PointingToDeclaration/misk-jdbc-testing/misk.jdbc/index.md
+$dokka.location:misk.jdbc//SHARED_TEST_DATABASE_POOL/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-s-h-a-r-e-d_-t-e-s-t_-d-a-t-a-b-a-s-e_-p-o-o-l.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener.Companion///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/-companion/index.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/index.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener/ExtendedQueryExecutionListener/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/-extended-query-execution-listener.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener/afterMethod/#net.ttddyy.dsproxy.listener.MethodExecutionContext/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/after-method.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener/afterQuery/#net.ttddyy.dsproxy.ExecutionInfo?#kotlin.collections.List[net.ttddyy.dsproxy.QueryInfo]?/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/after-query.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener/beforeMethod/#net.ttddyy.dsproxy.listener.MethodExecutionContext/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/before-method.md
+$dokka.location:misk.jdbc/ExtendedQueryExecutionListener/beforeQuery/#net.ttddyy.dsproxy.ExecutionInfo?#kotlin.collections.List[net.ttddyy.dsproxy.QueryInfo]?/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-extended-query-execution-listener/before-query.md
+$dokka.location:misk.jdbc/JdbcTestingModule///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-jdbc-testing-module/index.md
+$dokka.location:misk.jdbc/JdbcTestingModule/JdbcTestingModule/#kotlin.reflect.KClass[kotlin.Annotation]#kotlin.collections.List[kotlin.String]#kotlin.collections.List[kotlin.String]#kotlin.Boolean/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-jdbc-testing-module/-jdbc-testing-module.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks.TableScanDetector///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/-table-scan-detector/index.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks.TableScanDetector/TableScanDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/-table-scan-detector/-table-scan-detector.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/index.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks/MySqlScaleSafetyChecks/#misk.jdbc.DataSourceConfig/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/-my-sql-scale-safety-checks.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks/config/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/config.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks/connect/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/connect.md
+$dokka.location:misk.jdbc/MySqlScaleSafetyChecks/decorate/#javax.sql.DataSource/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-my-sql-scale-safety-checks/decorate.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/index.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks/checkQueryForTableScan/#java.sql.Connection#kotlin.String?#kotlin.String/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/check-query-for-table-scan.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks/extractQueriesSince/#java.sql.Connection#java.sql.Timestamp/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/extract-queries-since.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks/getLastLoggedCommand/#java.sql.Connection/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/get-last-logged-command.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks/isDml/#kotlin.String/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/is-dml.md
+$dokka.location:misk.jdbc/ScaleSafetyChecks/turnOnSqlGeneralLogging/#java.sql.Connection/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-scale-safety-checks/turn-on-sql-general-logging.md
+$dokka.location:misk.jdbc/TestDatabasePool.Backend///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-backend/index.md
+$dokka.location:misk.jdbc/TestDatabasePool.Backend/createDatabase/#kotlin.String/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-backend/create-database.md
+$dokka.location:misk.jdbc/TestDatabasePool.Backend/dropDatabase/#kotlin.String/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-backend/drop-database.md
+$dokka.location:misk.jdbc/TestDatabasePool.Backend/showDatabases/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-backend/show-databases.md
+$dokka.location:misk.jdbc/TestDatabasePool.Companion///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-companion/index.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/index.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName/DatabaseName/#kotlin.String#kotlin.Long#kotlin.Int/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/-database-name.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName/name/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/name.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName/toString/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/to-string.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName/version/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/version.md
+$dokka.location:misk.jdbc/TestDatabasePool.DatabaseName/yearMonthDay/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-database-name/year-month-day.md
+$dokka.location:misk.jdbc/TestDatabasePool///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/index.md
+$dokka.location:misk.jdbc/TestDatabasePool/TestDatabasePool/#misk.jdbc.TestDatabasePool.Backend#java.time.Clock/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/-test-database-pool.md
+$dokka.location:misk.jdbc/TestDatabasePool/backend/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/backend.md
+$dokka.location:misk.jdbc/TestDatabasePool/clock/#/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/clock.md
+$dokka.location:misk.jdbc/TestDatabasePool/pruneOldDatabases/#java.time.Duration/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/prune-old-databases.md
+$dokka.location:misk.jdbc/TestDatabasePool/releaseDatabase/#misk.jdbc.DataSourceConfig/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/release-database.md
+$dokka.location:misk.jdbc/TestDatabasePool/takeDatabase/#misk.jdbc.DataSourceConfig/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-test-database-pool/take-database.md
+$dokka.location:misk.jdbc/TruncateTablesService///PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-truncate-tables-service/index.md
+$dokka.location:misk.jdbc/TruncateTablesService/TruncateTablesService/#kotlin.reflect.KClass[kotlin.Annotation]#misk.jdbc.DataSourceService#javax.inject.Provider[misk.jdbc.Transacter]#kotlin.collections.List[kotlin.String]#kotlin.collections.List[kotlin.String]/PointingToDeclaration/misk-jdbc-testing/misk.jdbc/-truncate-tables-service/-truncate-tables-service.md
+$dokka.location:misk.vitess////PointingToDeclaration/misk-jdbc-testing/misk.vitess/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.Companion///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-companion/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.CowriteDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-cowrite-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.CowriteDetector/CowriteDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-cowrite-detector/-cowrite-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.FullScatterDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-full-scatter-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.FullScatterDetector/FullScatterDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-full-scatter-detector/-full-scatter-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.TableScanDetector///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-table-scan-detector/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks.TableScanDetector/TableScanDetector/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-table-scan-detector/-table-scan-detector.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks///PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/index.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/VitessScaleSafetyChecks/#misk.jdbc.DataSourceConfig#okhttp3.OkHttpClient#com.squareup.moshi.Moshi#misk.database.StartDatabaseService/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/-vitess-scale-safety-checks.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/config/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/config.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/connect/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/connect.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/decorate/#javax.sql.DataSource/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/decorate.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/moshi/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/moshi.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/okHttpClient/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/ok-http-client.md
+$dokka.location:misk.vitess/VitessScaleSafetyChecks/startDatabaseService/#/PointingToDeclaration/misk-jdbc-testing/misk.vitess/-vitess-scale-safety-checks/start-database-service.md
+misk.jdbc
+misk.vitess
+

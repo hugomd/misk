@@ -1,0 +1,40 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.jobqueue////PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/index.md
+$dokka.location:misk.jobqueue/FakeJob///PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/index.md
+$dokka.location:misk.jobqueue/FakeJob/FakeJob/#misk.jobqueue.QueueName#kotlin.String#kotlin.String#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]#java.time.Instant#java.time.Duration?/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/-fake-job.md
+$dokka.location:misk.jobqueue/FakeJob/acknowledge/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/acknowledge.md
+$dokka.location:misk.jobqueue/FakeJob/acknowledged/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/acknowledged.md
+$dokka.location:misk.jobqueue/FakeJob/attributes/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/attributes.md
+$dokka.location:misk.jobqueue/FakeJob/body/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/body.md
+$dokka.location:misk.jobqueue/FakeJob/compareTo/#misk.jobqueue.FakeJob/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/compare-to.md
+$dokka.location:misk.jobqueue/FakeJob/deadLetter/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/dead-letter.md
+$dokka.location:misk.jobqueue/FakeJob/deadLettered/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/dead-lettered.md
+$dokka.location:misk.jobqueue/FakeJob/deliverAt/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/deliver-at.md
+$dokka.location:misk.jobqueue/FakeJob/deliveryDelay/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/delivery-delay.md
+$dokka.location:misk.jobqueue/FakeJob/enqueuedAt/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/enqueued-at.md
+$dokka.location:misk.jobqueue/FakeJob/id/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/id.md
+$dokka.location:misk.jobqueue/FakeJob/idempotenceKey/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/idempotence-key.md
+$dokka.location:misk.jobqueue/FakeJob/queueName/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job/queue-name.md
+$dokka.location:misk.jobqueue/FakeJobHandlerModule.Companion///PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-handler-module/-companion/index.md
+$dokka.location:misk.jobqueue/FakeJobHandlerModule.Companion/create/#misk.jobqueue.QueueName#java.lang.Class[TypeParam(bounds=[misk.jobqueue.JobHandler])]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-handler-module/-companion/create.md
+$dokka.location:misk.jobqueue/FakeJobHandlerModule.Companion/create/#misk.jobqueue.QueueName#kotlin.reflect.KClass[TypeParam(bounds=[misk.jobqueue.JobHandler])]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-handler-module/-companion/create.md
+$dokka.location:misk.jobqueue/FakeJobHandlerModule.Companion/create/#misk.jobqueue.QueueName/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-handler-module/-companion/create.md
+$dokka.location:misk.jobqueue/FakeJobHandlerModule///PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-handler-module/index.md
+$dokka.location:misk.jobqueue/FakeJobQueue///PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/index.md
+$dokka.location:misk.jobqueue/FakeJobQueue/FakeJobQueue/#java.time.Clock#javax.inject.Provider[kotlin.collections.Map[misk.jobqueue.QueueName,misk.jobqueue.JobHandler]]#misk.tokens.TokenGenerator/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/-fake-job-queue.md
+$dokka.location:misk.jobqueue/FakeJobQueue/batchEnqueue/#misk.jobqueue.QueueName#kotlin.collections.List[misk.jobqueue.JobQueue.JobRequest]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/batch-enqueue.md
+$dokka.location:misk.jobqueue/FakeJobQueue/enqueue/#misk.hibernate.Session#misk.hibernate.Gid[*,*]#misk.jobqueue.QueueName#kotlin.String#kotlin.String#java.time.Duration?#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/enqueue.md
+$dokka.location:misk.jobqueue/FakeJobQueue/enqueue/#misk.hibernate.Session#misk.jobqueue.QueueName#kotlin.String#kotlin.String#java.time.Duration?#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/enqueue.md
+$dokka.location:misk.jobqueue/FakeJobQueue/enqueue/#misk.jobqueue.QueueName#kotlin.String#kotlin.String#java.time.Duration?#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/enqueue.md
+$dokka.location:misk.jobqueue/FakeJobQueue/handleJob/#misk.jobqueue.Job#kotlin.Boolean#kotlin.Int/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/handle-job.md
+$dokka.location:misk.jobqueue/FakeJobQueue/handleJobs/#kotlin.Boolean#kotlin.Boolean/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/handle-jobs.md
+$dokka.location:misk.jobqueue/FakeJobQueue/handleJobs/#misk.jobqueue.QueueName#kotlin.Boolean#kotlin.Int#kotlin.Boolean/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/handle-jobs.md
+$dokka.location:misk.jobqueue/FakeJobQueue/peekDeadlettered/#misk.jobqueue.QueueName/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/peek-deadlettered.md
+$dokka.location:misk.jobqueue/FakeJobQueue/peekJobs/#misk.jobqueue.QueueName/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/peek-jobs.md
+$dokka.location:misk.jobqueue/FakeJobQueue/reprocessDeadlettered/#misk.jobqueue.Job#kotlin.Boolean#kotlin.Int/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/reprocess-deadlettered.md
+$dokka.location:misk.jobqueue/FakeJobQueue/reprocessDeadlettered/#misk.jobqueue.QueueName#kotlin.Boolean#kotlin.Int/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue/reprocess-deadlettered.md
+$dokka.location:misk.jobqueue/FakeJobQueueModule///PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue-module/index.md
+$dokka.location:misk.jobqueue/FakeJobQueueModule/FakeJobQueueModule/#/PointingToDeclaration/misk-jobqueue-testing/misk.jobqueue/-fake-job-queue-module/-fake-job-queue-module.md
+misk.jobqueue
+

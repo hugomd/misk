@@ -1,0 +1,25 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.policy.opa////PointingToDeclaration/misk-policy-testing/misk.policy.opa/index.md
+$dokka.location:misk.policy.opa/FakeOpaModule///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-module/index.md
+$dokka.location:misk.policy.opa/FakeOpaModule/FakeOpaModule/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-module/-fake-opa-module.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/index.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine/FakeOpaPolicyEngine/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/-fake-opa-policy-engine.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine/addOverride/#kotlin.String#misk.policy.opa.OpaResponse/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/add-override.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine/addOverrideForInput/#kotlin.String#misk.policy.opa.OpaRequest#misk.policy.opa.OpaResponse/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/add-override-for-input.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine/evaluateNoInput/#kotlin.String#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/evaluate-no-input.md
+$dokka.location:misk.policy.opa/FakeOpaPolicyEngine/evaluateWithInput/#kotlin.String#TypeParam(bounds=[misk.policy.opa.OpaRequest])#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaRequest])]#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-fake-opa-policy-engine/evaluate-with-input.md
+$dokka.location:misk.policy.opa/LocalOpaService.Callback///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-callback/index.md
+$dokka.location:misk.policy.opa/LocalOpaService.Callback/Callback/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-callback/-callback.md
+$dokka.location:misk.policy.opa/LocalOpaService.Callback/onNext/#com.github.dockerjava.api.model.Frame/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-callback/on-next.md
+$dokka.location:misk.policy.opa/LocalOpaService.Companion///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-companion/index.md
+$dokka.location:misk.policy.opa/LocalOpaService.Companion/DEFAULT_POLICY_DIRECTORY/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-companion/-d-e-f-a-u-l-t_-p-o-l-i-c-y_-d-i-r-e-c-t-o-r-y.md
+$dokka.location:misk.policy.opa/LocalOpaService.Companion/OPA_CONTAINER_NAME/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-companion/-o-p-a_-c-o-n-t-a-i-n-e-r_-n-a-m-e.md
+$dokka.location:misk.policy.opa/LocalOpaService.Companion/OPA_DOCKER_IMAGE/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-companion/-o-p-a_-d-o-c-k-e-r_-i-m-a-g-e.md
+$dokka.location:misk.policy.opa/LocalOpaService.Companion/OPA_EXPOSED_PORT/#/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-companion/-o-p-a_-e-x-p-o-s-e-d_-p-o-r-t.md
+$dokka.location:misk.policy.opa/LocalOpaService///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/index.md
+$dokka.location:misk.policy.opa/LocalOpaService/LocalOpaService/#kotlin.String#kotlin.Boolean/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-local-opa-service/-local-opa-service.md
+$dokka.location:misk.policy.opa/OpaDevelopmentModule///PointingToDeclaration/misk-policy-testing/misk.policy.opa/-opa-development-module/index.md
+$dokka.location:misk.policy.opa/OpaDevelopmentModule/OpaDevelopmentModule/#kotlin.String#kotlin.Boolean/PointingToDeclaration/misk-policy-testing/misk.policy.opa/-opa-development-module/-opa-development-module.md
+misk.policy.opa
+

@@ -1,0 +1,27 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.aws2.dynamodb.testing////PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/index.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule///PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/index.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/DockerDynamoDbModule/#kotlin.Array[misk.aws2.dynamodb.testing.DynamoDbTable]/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/-docker-dynamo-db-module.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/DockerDynamoDbModule/#kotlin.collections.List[misk.aws2.dynamodb.testing.DynamoDbTable]/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/-docker-dynamo-db-module.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/provideRequiredTables/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/provide-required-tables.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/providesAmazonDynamoDB/#misk.aws2.dynamodb.testing.TestDynamoDb/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/provides-amazon-dynamo-d-b.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/providesAmazonDynamoDBStreams/#misk.aws2.dynamodb.testing.TestDynamoDb/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/provides-amazon-dynamo-d-b-streams.md
+$dokka.location:misk.aws2.dynamodb.testing/DockerDynamoDbModule/providesTestDynamoDb/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-docker-dynamo-db-module/provides-test-dynamo-db.md
+$dokka.location:misk.aws2.dynamodb.testing/DynamoDbTable///PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-dynamo-db-table/index.md
+$dokka.location:misk.aws2.dynamodb.testing/DynamoDbTable/DynamoDbTable/#kotlin.String#kotlin.reflect.KClass[*]#kotlin.Function1[software.amazon.awssdk.enhanced.dynamodb.model.CreateTableEnhancedRequest.Builder,software.amazon.awssdk.enhanced.dynamodb.model.CreateTableEnhancedRequest.Builder]/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-dynamo-db-table/-dynamo-db-table.md
+$dokka.location:misk.aws2.dynamodb.testing/DynamoDbTable/configureTable/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-dynamo-db-table/configure-table.md
+$dokka.location:misk.aws2.dynamodb.testing/DynamoDbTable/tableClass/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-dynamo-db-table/table-class.md
+$dokka.location:misk.aws2.dynamodb.testing/DynamoDbTable/tableName/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-dynamo-db-table/table-name.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule///PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/index.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/InProcessDynamoDbModule/#kotlin.Array[misk.aws2.dynamodb.testing.DynamoDbTable]/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/-in-process-dynamo-db-module.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/InProcessDynamoDbModule/#kotlin.collections.List[misk.aws2.dynamodb.testing.DynamoDbTable]/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/-in-process-dynamo-db-module.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/provideRequiredTables/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/provide-required-tables.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/providesAmazonDynamoDB/#misk.aws2.dynamodb.testing.TestDynamoDb/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/provides-amazon-dynamo-d-b.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/providesAmazonDynamoDBStreams/#misk.aws2.dynamodb.testing.TestDynamoDb/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/provides-amazon-dynamo-d-b-streams.md
+$dokka.location:misk.aws2.dynamodb.testing/InProcessDynamoDbModule/providesTestDynamoDb/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-in-process-dynamo-db-module/provides-test-dynamo-db.md
+$dokka.location:misk.aws2.dynamodb.testing/TestDynamoDb///PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-test-dynamo-db/index.md
+$dokka.location:misk.aws2.dynamodb.testing/TestDynamoDb/TestDynamoDb/#app.cash.tempest2.testing.internal.TestDynamoDbService/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-test-dynamo-db/-test-dynamo-db.md
+$dokka.location:misk.aws2.dynamodb.testing/TestDynamoDb/service/#/PointingToDeclaration/misk-aws2-dynamodb-testing/misk.aws2.dynamodb.testing/-test-dynamo-db/service.md
+misk.aws2.dynamodb.testing
+

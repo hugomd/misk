@@ -1,0 +1,16 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:wisp.logging////PointingToDeclaration/wisp-logging/wisp.logging/index.md
+$dokka.location:wisp.logging//debug/mu.KLogger#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/debug.md
+$dokka.location:wisp.logging//debug/mu.KLogger#kotlin.Throwable#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/debug.md
+$dokka.location:wisp.logging//error/mu.KLogger#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/error.md
+$dokka.location:wisp.logging//error/mu.KLogger#kotlin.Throwable#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/error.md
+$dokka.location:wisp.logging//getLogger/#/PointingToDeclaration/wisp-logging/wisp.logging/get-logger.md
+$dokka.location:wisp.logging//info/mu.KLogger#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/info.md
+$dokka.location:wisp.logging//info/mu.KLogger#kotlin.Throwable#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/info.md
+$dokka.location:wisp.logging//log/mu.KLogger#org.slf4j.event.Level#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/log.md
+$dokka.location:wisp.logging//log/mu.KLogger#org.slf4j.event.Level#kotlin.Throwable#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/log.md
+$dokka.location:wisp.logging//warn/mu.KLogger#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/warn.md
+$dokka.location:wisp.logging//warn/mu.KLogger#kotlin.Throwable#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any?]]#kotlin.Function0[kotlin.Any?]/PointingToDeclaration/wisp-logging/wisp.logging/warn.md
+wisp.logging
+

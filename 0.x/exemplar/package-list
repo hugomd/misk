@@ -1,0 +1,55 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.squareup.exemplar.actions////PointingToDeclaration/exemplar/com.squareup.exemplar.actions/index.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/index.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/Form/#kotlin.String#kotlin.Int#kotlin.String?#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/-form.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/int/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/int.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/list/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/list.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/nullable/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/nullable.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/optional/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/optional.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction.Form/string/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-form/string.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/index.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction/EchoFormAction/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/-echo-form-action.md
+$dokka.location:com.squareup.exemplar.actions/EchoFormAction/echo/#com.squareup.exemplar.actions.EchoFormAction.Form/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-echo-form-action/echo.md
+$dokka.location:com.squareup.exemplar.actions/HelloPostResponse///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-post-response/index.md
+$dokka.location:com.squareup.exemplar.actions/HelloPostResponse/HelloPostResponse/#kotlin.String#kotlin.String/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-post-response/-hello-post-response.md
+$dokka.location:com.squareup.exemplar.actions/HelloPostResponse/greeting/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-post-response/greeting.md
+$dokka.location:com.squareup.exemplar.actions/HelloPostResponse/name/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-post-response/name.md
+$dokka.location:com.squareup.exemplar.actions/HelloResponse///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-response/index.md
+$dokka.location:com.squareup.exemplar.actions/HelloResponse/HelloResponse/#kotlin.String#kotlin.String/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-response/-hello-response.md
+$dokka.location:com.squareup.exemplar.actions/HelloResponse/greeting/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-response/greeting.md
+$dokka.location:com.squareup.exemplar.actions/HelloResponse/name/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-response/name.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebAction///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-action/index.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebAction/HelloWebAction/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-action/-hello-web-action.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebAction/hello/#kotlin.String#okhttp3.Headers#kotlin.String?#kotlin.collections.List[kotlin.String]?/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-action/hello.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebPostAction///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-post-action/index.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebPostAction/HelloWebPostAction/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-post-action/-hello-web-post-action.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebPostAction/hello/#kotlin.String#com.squareup.exemplar.actions.PostBody/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-post-action/hello.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebProtoAction///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-proto-action/index.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebProtoAction/HelloWebProtoAction/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-proto-action/-hello-web-proto-action.md
+$dokka.location:com.squareup.exemplar.actions/HelloWebProtoAction/hello/#HelloWebRequest/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-hello-web-proto-action/hello.md
+$dokka.location:com.squareup.exemplar.actions/PostBody///PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-post-body/index.md
+$dokka.location:com.squareup.exemplar.actions/PostBody/PostBody/#kotlin.String/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-post-body/-post-body.md
+$dokka.location:com.squareup.exemplar.actions/PostBody/greeting/#/PointingToDeclaration/exemplar/com.squareup.exemplar.actions/-post-body/greeting.md
+$dokka.location:com.squareup.exemplar////PointingToDeclaration/exemplar/com.squareup.exemplar/index.md
+$dokka.location:com.squareup.exemplar//main/#kotlin.Array[kotlin.String]/PointingToDeclaration/exemplar/com.squareup.exemplar/main.md
+$dokka.location:com.squareup.exemplar/DashboardModule///PointingToDeclaration/exemplar/com.squareup.exemplar/-dashboard-module/index.md
+$dokka.location:com.squareup.exemplar/DashboardModule/DashboardModule/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-dashboard-module/-dashboard-module.md
+$dokka.location:com.squareup.exemplar/ExemplarAccessModule///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-access-module/index.md
+$dokka.location:com.squareup.exemplar/ExemplarAccessModule/ExemplarAccessModule/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-access-module/-exemplar-access-module.md
+$dokka.location:com.squareup.exemplar/ExemplarConfig///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-config/index.md
+$dokka.location:com.squareup.exemplar/ExemplarConfig/ExemplarConfig/#misk.web.WebConfig#misk.metrics.backends.prometheus.PrometheusConfig/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-config/-exemplar-config.md
+$dokka.location:com.squareup.exemplar/ExemplarConfig/prometheus/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-config/prometheus.md
+$dokka.location:com.squareup.exemplar/ExemplarConfig/web/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-config/web.md
+$dokka.location:com.squareup.exemplar/ExemplarJavaApp///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-java-app/index.md
+$dokka.location:com.squareup.exemplar/ExemplarJavaApp/main/#java.lang.String[]/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-java-app/main.md
+$dokka.location:com.squareup.exemplar/ExemplarJavaConfig///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-java-config/index.md
+$dokka.location:com.squareup.exemplar/ExemplarJavaConfig/web/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-java-config/web.md
+$dokka.location:com.squareup.exemplar/ExemplarJavaModule///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-java-module/index.md
+$dokka.location:com.squareup.exemplar/ExemplarWebActionsModule///PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-web-actions-module/index.md
+$dokka.location:com.squareup.exemplar/ExemplarWebActionsModule/ExemplarWebActionsModule/#/PointingToDeclaration/exemplar/com.squareup.exemplar/-exemplar-web-actions-module/-exemplar-web-actions-module.md
+$dokka.location:com.squareup.exemplar/HelloJavaAction///PointingToDeclaration/exemplar/com.squareup.exemplar/-hello-java-action/index.md
+$dokka.location:com.squareup.exemplar/HelloJavaAction/hello/#java.lang.String#okhttp3.Headers/PointingToDeclaration/exemplar/com.squareup.exemplar/-hello-java-action/hello.md
+com.squareup.exemplar
+com.squareup.exemplar.actions
+

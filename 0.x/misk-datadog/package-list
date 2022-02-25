@@ -1,0 +1,15 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.tracing.backends.datadog////PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/index.md
+$dokka.location:misk.tracing.backends.datadog/DatadogTracingBackendModule///PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-datadog-tracing-backend-module/index.md
+$dokka.location:misk.tracing.backends.datadog/DatadogTracingBackendModule/DatadogTracingBackendModule/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-datadog-tracing-backend-module/-datadog-tracing-backend-module.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener.Companion///PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/-companion/index.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener.Companion/MDC_SPAN_ID/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/-companion/-m-d-c_-s-p-a-n_-i-d.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener.Companion/MDC_TRACE_ID/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/-companion/-m-d-c_-t-r-a-c-e_-i-d.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener.Companion/log/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/-companion/log.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener///PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/index.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener/MDCScopeListener/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/-m-d-c-scope-listener.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener/afterScopeActivated/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/after-scope-activated.md
+$dokka.location:misk.tracing.backends.datadog/MDCScopeListener/afterScopeClosed/#/PointingToDeclaration/misk-datadog/misk.tracing.backends.datadog/-m-d-c-scope-listener/after-scope-closed.md
+misk.tracing.backends.datadog
+

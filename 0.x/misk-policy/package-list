@@ -1,0 +1,34 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.policy.opa////PointingToDeclaration/misk-policy/misk.policy.opa/index.md
+$dokka.location:misk.policy.opa//evaluate/misk.policy.opa.OpaPolicyEngine#kotlin.String#TypeParam(bounds=[misk.policy.opa.OpaRequest])/PointingToDeclaration/misk-policy/misk.policy.opa/evaluate.md
+$dokka.location:misk.policy.opa//evaluate/misk.policy.opa.OpaPolicyEngine#kotlin.String/PointingToDeclaration/misk-policy/misk.policy.opa/evaluate.md
+$dokka.location:misk.policy.opa/OpaApi///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-api/index.md
+$dokka.location:misk.policy.opa/OpaApi/queryDocument/#kotlin.String#kotlin.String/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-api/query-document.md
+$dokka.location:misk.policy.opa/OpaConfig///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-config/index.md
+$dokka.location:misk.policy.opa/OpaConfig/OpaConfig/#kotlin.String#kotlin.String?/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-config/-opa-config.md
+$dokka.location:misk.policy.opa/OpaConfig/baseUrl/#/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-config/base-url.md
+$dokka.location:misk.policy.opa/OpaConfig/unixSocket/#/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-config/unix-socket.md
+$dokka.location:misk.policy.opa/OpaModule///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-module/index.md
+$dokka.location:misk.policy.opa/OpaModule/OpaModule/#misk.policy.opa.OpaConfig/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-module/-opa-module.md
+$dokka.location:misk.policy.opa/OpaModule/provideMoshi/#/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-module/provide-moshi.md
+$dokka.location:misk.policy.opa/OpaPolicyEngine///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-policy-engine/index.md
+$dokka.location:misk.policy.opa/OpaPolicyEngine/evaluateNoInput/#kotlin.String#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-policy-engine/evaluate-no-input.md
+$dokka.location:misk.policy.opa/OpaPolicyEngine/evaluateWithInput/#kotlin.String#TypeParam(bounds=[misk.policy.opa.OpaRequest])#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaRequest])]#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy/misk.policy.opa/-opa-policy-engine/evaluate-with-input.md
+$dokka.location:misk.policy.opa/OpaRequest///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-request/index.md
+$dokka.location:misk.policy.opa/OpaResponse///PointingToDeclaration/misk-policy/misk.policy.opa/-opa-response/index.md
+$dokka.location:misk.policy.opa/PolicyEngineException///PointingToDeclaration/misk-policy/misk.policy.opa/-policy-engine-exception/index.md
+$dokka.location:misk.policy.opa/PolicyEngineException/PolicyEngineException/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/misk-policy/misk.policy.opa/-policy-engine-exception/-policy-engine-exception.md
+$dokka.location:misk.policy.opa/RealOpaPolicyEngine///PointingToDeclaration/misk-policy/misk.policy.opa/-real-opa-policy-engine/index.md
+$dokka.location:misk.policy.opa/RealOpaPolicyEngine/RealOpaPolicyEngine/#misk.policy.opa.OpaApi#com.squareup.moshi.Moshi/PointingToDeclaration/misk-policy/misk.policy.opa/-real-opa-policy-engine/-real-opa-policy-engine.md
+$dokka.location:misk.policy.opa/RealOpaPolicyEngine/evaluateNoInput/#kotlin.String#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy/misk.policy.opa/-real-opa-policy-engine/evaluate-no-input.md
+$dokka.location:misk.policy.opa/RealOpaPolicyEngine/evaluateWithInput/#kotlin.String#TypeParam(bounds=[misk.policy.opa.OpaRequest])#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaRequest])]#java.lang.Class[TypeParam(bounds=[misk.policy.opa.OpaResponse])]/PointingToDeclaration/misk-policy/misk.policy.opa/-real-opa-policy-engine/evaluate-with-input.md
+$dokka.location:misk.policy.opa/Request///PointingToDeclaration/misk-policy/misk.policy.opa/-request/index.md
+$dokka.location:misk.policy.opa/Request/Request/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/misk-policy/misk.policy.opa/-request/-request.md
+$dokka.location:misk.policy.opa/Request/input/#/PointingToDeclaration/misk-policy/misk.policy.opa/-request/input.md
+$dokka.location:misk.policy.opa/Response///PointingToDeclaration/misk-policy/misk.policy.opa/-response/index.md
+$dokka.location:misk.policy.opa/Response/Response/#kotlin.String?#TypeParam(bounds=[kotlin.Any?])?/PointingToDeclaration/misk-policy/misk.policy.opa/-response/-response.md
+$dokka.location:misk.policy.opa/Response/decision_id/#/PointingToDeclaration/misk-policy/misk.policy.opa/-response/decision_id.md
+$dokka.location:misk.policy.opa/Response/result/#/PointingToDeclaration/misk-policy/misk.policy.opa/-response/result.md
+misk.policy.opa
+

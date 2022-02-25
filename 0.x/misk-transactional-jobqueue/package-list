@@ -1,0 +1,8 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.jobqueue////PointingToDeclaration/misk-transactional-jobqueue/misk.jobqueue/index.md
+$dokka.location:misk.jobqueue/TransactionalJobQueue///PointingToDeclaration/misk-transactional-jobqueue/misk.jobqueue/-transactional-job-queue/index.md
+$dokka.location:misk.jobqueue/TransactionalJobQueue/enqueue/#misk.hibernate.Session#misk.hibernate.Gid[*,*]#misk.jobqueue.QueueName#kotlin.String#kotlin.String#java.time.Duration?#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/misk-transactional-jobqueue/misk.jobqueue/-transactional-job-queue/enqueue.md
+$dokka.location:misk.jobqueue/TransactionalJobQueue/enqueue/#misk.hibernate.Session#misk.jobqueue.QueueName#kotlin.String#kotlin.String#java.time.Duration?#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/misk-transactional-jobqueue/misk.jobqueue/-transactional-job-queue/enqueue.md
+misk.jobqueue
+
